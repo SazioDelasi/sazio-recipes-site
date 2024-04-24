@@ -14,7 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
   </head>
-  <body>
+  <body onload="createCards()">
     <!-- Header Row -->
     <div class="row"></div>
 
@@ -57,67 +57,9 @@
       <section class="cards">
 
         <!-- Card 1 -->
-        <div class="card-container">
-          <div class="card">
-            <img src="./../assets/rice porridge.png" alt="Rice Porridge">
-            <div class="card-content">
-              <h3>Rice porridge</h3>
-              <p>Breakfast...</p>
-              <a href="receita1.html" class="see-more-btn">See More</a>
-            </div>
-          </div>
-
-          <!-- Card 2 -->
-          <div class="card">
-            <img src="./../assets/banku.png" alt="Banku & Okro Stew">
-            <div class="card-content">
-              <h3>Banku & Okro Stew</h3>
-              <p>Supper</p>
-              <a href="receita2.html" class="see-more-btn">See More</a>
-            </div>
-          </div>
-
-          <!-- Card 3 -->
-          <div class="card">
-            <img src="./../assets/waakye.png" alt="Waakye">
-            <div class="card-content">
-              <h3>Waakye</h3>
-              <p>Lunch</p>
-              <a href="receita3.html" class="see-more-btn">See More</a>
-            </div>
-          </div>
-        </div>
-
-        <!-- Card 4 -->
-        <div class="card-container">
-          <div class="card">
-            <img src="./../assets/koko.png" alt="Hausa Koko">
-            <div class="card-content">
-              <h3>Hausa Koko</h3>
-              <p>Breakfast...</p>
-              <a href="receita1.html" class="see-more-btn">See More</a>
-            </div>
-          </div>
-
-          <!-- Card 5 -->
-          <div class="card">
-            <img src="./../assets/kenkey.png" alt="Ga Kenkey with Pepper">
-            <div class="card-content">
-              <h3>Ga Kenkey with Pepper</h3>
-              <p>Supper</p>
-              <a href="receita2.html" class="see-more-btn">See More</a>
-            </div>
-          </div>
-
-          <!-- Card 6 -->
-          <div class="card">
-            <img src="./../assets/jollof.png" alt="Jollof Rice">
-            <div class="card-content">
-              <h3>Jollof Rice</h3>
-              <p>Lunch</p>
-              <a href="receita3.html" class="see-more-btn">See More</a>
-            </div>
-          </div>
+        <div id="cards" class="card-container">
+          <!-- Cards injected by JavaScript -->
+          
         </div>
       </section>
     </main>
@@ -146,5 +88,6 @@
         </div>
       </section>
     </footer>
+    <script src="./../js/script.js"></script>
   </body>
 </html>

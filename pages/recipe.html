@@ -9,7 +9,6 @@
   <link rel="stylesheet" href="./../css/style.css" />
   <link rel="shortcut icon" href="./../assets/cafe.svg" type="image/svg" />
 
-  <!-- Recursos -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
     integrity="sha512-w...bH...g==" crossorigin="anonymous" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -18,7 +17,7 @@
   <script src="https://unpkg.com/@phosphor-icons/web"></script>
 </head>
 
-<body>
+<body onload="showRecipe()">
   <!-- Header Row -->
   <div class="row"></div>
 
@@ -51,9 +50,9 @@
 
   <main>
     <!-- Banner -->
-    <section class="banner">
+    <section id="food-banner" class="banner">
       <div class="banner-content">
-        <h1>Rice Porridge</h1>
+        <h1 id="food-name">Rice Porridge</h1>
       </div>
     </section>
 
@@ -62,42 +61,15 @@
       <!-- Ingredients -->
       <article class="content__ingredients">
         <h2 class="title top">Ingredients</h2>
-        <ul>
-          <li>1 cup rice</li>
-          <li>5 cups water</li>
-          <li>Salt (to taste)</li>
-          <li>1 pinch nutmeg</li>
-          <li>Sugar (or honey), to serve</li>
-          <li>Evaporated milk, to serve</li>
-          <li>Hot water (boiling)</li>
+        <ul id="ingredient-list">
         </ul>
       </article>
 
       <!-- Steps -->
       <article class="content__steps">
         <h2 class="title">Steps</h2>
-        <ol>
-          <li>
-            Wash the rice until the water is clear, then drain.
-          </li>
-          <li>
-            Place the rice in a bowl and add 5 cups (1,2 l) of water.
-          </li>
-          <li>
-            Cook the rice until tender, about 15 minutes. Use more water, if necessary, to obtain a soft and sticky rice.
-          </li>
-          <li>
-            Add a pinch of salt.
-          </li>
-          <li>
-            Using the flat side of a wooden spoon, crush the rice until it is soft and flattens into a ball.
-          </li>
-          <li>
-            Add boiling water to soften it to the desired thickness and consistency.
-          </li>
-          <li>
-            Serve the hot rice water with a pinch of nutmeg, evaporated milk, sugar (or honey), toasted nuts and coconut flakes or other ingredients of your choice.
-          </li>
+        <ol id="steps-list">
+          
         </ol>
       </article>
     </section>
@@ -130,6 +102,7 @@
       </div>
     </section>
   </footer>
+  <script src="../js/script.js"></script>
 </body>
 
 </html>

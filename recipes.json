@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Rice Porridge",
+        "banner": "./../assets/rice-porridge.png",
+        "description": "Breakfast...",
+        "ingredients": [
+            "1 cup rice (preferably broken rice or jasmine rice)",
+            "4 cups water",
+            "1/2 teaspoon salt",
+            "Sugar to taste",
+            "Milk (condensed milk or evaporated milk, as preferred)",
+            "Nutmeg or cinnamon (optional, for flavor)"
+        ],
+        "steps": [
+            "Rinse the rice under cold water until the water runs clear.",
+            "In a large pot, bring the water to a boil over medium-high heat.",
+            "Add the rinsed rice and stir to prevent sticking. Reduce the heat to low, cover the pot, and let it simmer gently.",
+            "Cook the rice for 30-45 minutes, stirring occasionally to prevent it from sticking to the pot and burning. The rice should break down and create a creamy consistency.",
+            "Add salt to taste and continue stirring until the porridge is smooth and has reached the desired consistency. You can add more water if needed to adjust the thickness.",
+            "Once the porridge is ready, serve it hot in bowls.",
+            "Add sugar to taste and pour in milk according to your preference. You can also sprinkle a pinch of nutmeg or cinnamon for extra flavor.",
+            "Enjoy your Ghanaian rice porridge!"
+        ],
+        "view_count": 0,
+        "search_count": 0
+    },
+    {
+        "name": "Banku & Okro Stew",
+        "banner": "./../assets/banku.png",
+        "description": "Breakfast...",
+        "ingredients": [
+            "2 cups corn dough",
+            "1 cup cassava dough",
+            "Water",
+            "2 cups fresh okro (sliced)",
+            "1 cup tomato sauce or diced tomatoes",
+            "1 large onion (chopped)",
+            "1/2 cup palm oil",
+            "1-2 chili peppers (optional, for heat)",
+            "1/2 cup smoked fish or dried shrimp (optional)",
+            "Salt to taste"
+
+        ],
+        "steps": [
+            "In a large pot, mix the corn dough and cassava dough with enough water to create a smooth paste.",
+            "Add water gradually to adjust the consistency of the mixture. It should be thick but smooth.",
+            "Place the pot over medium heat and start stirring continuously with a wooden spatula.",
+            "As the mixture begins to cook, it will thicken and form a dough-like consistency. Keep stirring to avoid lumps and ensure even cooking. ",
+            "Cook until the mixture pulls away from the sides of the pot and becomes firm, typically about 15-20 minutes.",
+            "Once cooked, shape into portions and serve hot.",
+
+            "Heat the palm oil in a large pot over medium heat. Add the chopped onions and sauté until golden brown.",
+            "Add the tomato sauce or diced tomatoes and cook for about 5-10 minutes, allowing it to thicken.",
+            "Add the sliced okro to the pot and mix well. If you like thicker stew, stir continuously; if you prefer a thinner stew, let it cook without stirring too much.",
+            "Add the chili peppers, smoked fish, or dried shrimp (if using) to the pot and continue cooking for another 10-15 minutes, or until the okro is tender.",
+            "Season with salt to taste.",
+            "Serve hot with the prepared banku. Enjoy your meal!"
+        ],
+        "view_count": 0,
+        "search_count": 0
+    },
+    {
+        "name": "Hausa Koko",
+        "banner": "./../assets/koko.png",
+        "description": "Breakfast...",
+        "ingredients": [
+            "1 cup millet flour",
+            "4 cups water (divided)",
+            "1-2 teaspoons dried ginger powder",
+            "/2 teaspoon grains of paradise (optional, for heat and aroma)",
+            "Sugar to taste"
+        ],
+        "steps": [
+            "In a bowl, mix the millet flour with 1 cup of water to create a smooth slurry. Ensure there are no lumps.",
+            "In a large pot, bring 3 cups of water to a boil over medium heat.",
+            "Once the water is boiling, reduce the heat to low. Gradually add the millet slurry to the boiling water while stirring continuously to avoid lumps.",
+            "Continue stirring until the mixture thickens and becomes smooth, about 10-15 minutes. Add more water if needed to adjust the consistency.",
+            "Add the dried ginger powder and grains of paradise (if using), and stir well to combine.",
+            "Once the porridge is cooked, serve hot in bowls.",
+            "Add sugar to taste and enjoy your Hausa Koko, typically with a side of Koose (fried bean cake) or bread."
+            
+        ],
+        "view_count": 0,
+        "search_count": 0
+    },
+    {
+        "name": "Ga Kenkey & Pepper",
+        "banner": "./../assets/kenkey.png",
+        "description": "Breakfast...",
+        "ingredients": [
+            "4 cups corn dough",
+            "1 cup cassava dough (optional, for texture)",
+            "Corn husks or banana leaves (for wrapping)",
+            "Water",
+
+            "2-3 large tomatoes",
+            "2 large onions",
+            "3-4 chili peppers (more or less, depending on heat preference)",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Mix the corn dough and cassava dough (if using) with a bit of water to create a smooth dough. It should not be too thick or too thin.",
+            "Divide the dough into portions, each enough for one kenkey. Shape into smooth balls.",
+            "Wrap each ball in corn husks or banana leaves. Secure the ends tightly.",
+            "In a large pot, add enough water to cover the kenkey. Place the wrapped balls into the pot and cover with a lid.",
+            "Boil the kenkey for about 1.5 to 2 hours, ensuring there's enough water to prevent burning. You can add more water during cooking if needed.",
+            "Once cooked, remove the kenkey from the pot, unwrap, and let it cool slightly before serving.",
+
+            "Blend the tomatoes, onions, and chili peppers until smooth. You can leave some texture if you prefer a chunkier sauce.",
+            "Pour the mixture into a pot and bring to a boil over medium heat. Simmer for 10-15 minutes to allow excess water to evaporate.",
+            "Add salt to taste and adjust the heat level as desired.",
+            "Serve the pepper sauce alongside the Ga kenkey. Enjoy your meal!"
+        ],
+        "view_count": 0,
+        "search_count": 0
+    },
+    {
+        "name": "Jollof Rice",
+        "banner": "./../assets/jollof.png",
+        "description": "Breakfast...",
+        "ingredients": [
+            "2 cups long-grain rice ",
+            "1 large onion (chopped)",
+            "2-3 cloves garlic (minced)",
+            "1-2 inches ginger (grated)",
+            "1-2 bell peppers (chopped, optional)",
+            "1 cup tomato paste",
+            "2-3 large fresh tomatoes (chopped or blended)",
+            "1-2 teaspoons paprika or cayenne pepper (for heat, optional)",
+            "2-3 cups chicken or vegetable broth",
+            "1/4 cup vegetable oil",
+            "Salt to taste",
+            "Protein of your choice (e.g., chicken, beef, fish, or shrimp)"
+            
+        ],
+        "steps": [
+            "Heat the vegetable oil in a large pot over medium heat. Add the chopped onions and sauté until golden brown.",
+            "Add the garlic and ginger, and sauté for another minute until fragrant.",
+            "Stir in the tomato paste and cook for 5-10 minutes, allowing it to caramelize slightly. This enhances the flavor of the dish.",
+            "Add the fresh tomatoes to the pot and continue cooking for another 10 minutes, allowing them to break down. Stir occasionally to avoid burning.",
+            "Add the chopped bell peppers (if using) and paprika or cayenne pepper (if you want extra heat).",
+            "Stir in the rice, ensuring it is well-coated with the tomato mixture.",
+            "Gradually add the chicken or vegetable broth, ensuring the rice is just covered. Stir to mix evenly.",
+            "Reduce the heat to low, cover the pot, and let it simmer for about 30-40 minutes or until the rice is fully cooked. Avoid opening the lid too often, as this can disrupt the cooking process.",
+            "Check the rice occasionally to ensure it doesn't burn, and add more broth or water if needed to maintain moisture.",
+            "Once the rice is cooked, season with salt to taste and serve hot. You can add protein (like chicken, beef, fish, or shrimp) either mixed in or served on the side.",
+            "Enjoy your Ghanaian Jollof Rice!"
+        ],
+        "view_count": 0,
+        "search_count": 0
+    },
+    {
+        "name": "Waakye",
+        "banner": "./../assets/waakye.png",
+        "description": "Breakfast...",
+        "ingredients": [
+            "2 cups dried black-eyed beans",
+            "2 cups long-grain rice",
+            "3-4 dried waakye leaves (also known as millet leaves)",
+            "1 teaspoon baking soda (optional, for color)",
+            "6-8 cups water",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Rinse the black-eyed beans under cold water to remove any dirt or debris.",
+            "In a large pot, add the beans and 4-5 cups of water. Add the waakye leaves for color and flavor.",
+            "Boil the beans over medium heat for about 30-45 minutes or until they are tender but not mushy. If using baking soda, add it at this point for a deeper color.",
+            "Once the beans are cooked, remove the waakye leaves and discard them.",
+            "Rinse the rice and add it to the pot with the beans. Add 2-3 cups of water or enough to cover the rice and beans by about 1 inch.",
+            "Stir, add salt to taste, and bring to a gentle boil. Once boiling, reduce the heat to low, cover, and let it simmer for 20-30 minutes, or until the rice is cooked and the water is absorbed.",
+            "Fluff the rice and beans mixture with a fork and adjust the seasoning if needed.",
+            "Serve hot with your choice of accompaniments, such as fried plantains, spaghetti, boiled eggs, fish, or a meat stew.",
+            "Enjoy your Waakye!"
+        ],
+        "view_count": 0,
+        "search_count": 0
+    }
+]
