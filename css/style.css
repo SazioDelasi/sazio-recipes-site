@@ -227,7 +227,13 @@ h4{
   margin: 22px 0 41px 0;
 }
 
-
+.content {
+  width: 90vw;
+  padding: 60px;
+  border-radius: 20px;
+  background-color: #FFD95A;
+  margin: 40px auto;
+}
 
 .footer {
   height: 273px;
