@@ -1,8 +1,11 @@
 async function getFoods() {
-    const url = "./../recipes.json"
+    const response = await fetch("http://localhost:3000/food/")
+    const data = await response.json()
+    return data
+}
 
-    const request = new Request(url)
-    const response = await fetch(request)
+async function getFood(id) {
+    const response = await fetch(`http://localhost:3000/food/${id}/`)
     const data = await response.json()
     return data
 }
@@ -30,8 +33,7 @@ async function showRecipe() {
     const params = new URLSearchParams(query)
     const id = params.get("id")
 
-    const data = await getFoods()
-    const food = data[id]
+    const food = await getFood(id)
 
     document.getElementById('food-name').innerHTML = food.name
     document.getElementById('food-banner').style.backgroundImage = `url(${food.banner})`
