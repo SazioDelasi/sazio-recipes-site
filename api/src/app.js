@@ -13,4 +13,4 @@ app.get("/", (req, res) => {
 	res.send("Welcome to the Recipes API");
 });
 
-module.exports = app;
+module.exports = app
