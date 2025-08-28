@@ -15,7 +15,7 @@ CREATE TABLE ingredients (
     id SERIAL PRIMARY KEY,
     recipe_id INT REFERENCES recipes(id) ON DELETE CASCADE,
     ingredient TEXT NOT NULL
-);
+)
 
 CREATE TABLE steps (
     id SERIAL PRIMARY KEY,
