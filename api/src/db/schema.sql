@@ -9,7 +9,7 @@ CREATE TABLE recipes (
     description TEXT,
     view_count INT DEFAULT 0,
     search_count INT DEFAULT 0
-);
+)
 
 CREATE TABLE ingredients (
     id SERIAL PRIMARY KEY,
