@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const foodRoutes = require("./routes/food-routes.js");
+const foodRoutes = require("./routes/food-routes.js")
 
 
 const app = express();
